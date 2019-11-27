@@ -28,6 +28,8 @@
         * [TrailingSpaces](docs/插件清单/TrailingSpaces.md)
     * [配置文件](docs/配置文件.md)
     * [编译系统](docs/编译系统.md)
+        * [C](docs/编译系统/C.md)
+        * [C++](docs/编译系统/C++.md)
         * [PHP](docs/编译系统/PHP.md)
     * [注册码](docs/注册码.md)
 
