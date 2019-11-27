@@ -11,10 +11,7 @@
     "shell": true,
     "encoding": "cp936",
     "variants": [{
-        "name": "g++ Compile",
-        "cmd": "g++ -std=c++11 $file_name -o $file_base_name"
-    }, {
-        "name": "g++ Run",
+        "name": "Run",
         "cmd": "start cmd /k $file_base_name"
     }]
 
