@@ -2,7 +2,7 @@
 
 推荐使用 Composer 来安装，执行下面的命令，安装依赖包到全局的 `vendor/bin` 目录下。
 
-```shell
+```
 composer global require squizlabs/php_codesniffer
 ```
 

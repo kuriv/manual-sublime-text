@@ -2,7 +2,7 @@
 
 推荐使用 npm 来安装，执行下面的命令，安装依赖包到全局目录下。
 
-```shell
+```
 npm install less -g
 npm install less-plugin-clean-css -g
 ```

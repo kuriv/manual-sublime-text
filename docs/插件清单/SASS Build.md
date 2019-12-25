@@ -2,7 +2,7 @@
 
 推荐使用 RubyGems 来安装，执行下面的命令，安装依赖包。
 
-```shell
+```
 gem install sass
 ```
 
