@@ -31,5 +31,4 @@
         * [C](docs/编译系统/C.md)
         * [C++](docs/编译系统/C++.md)
         * [PHP](docs/编译系统/PHP.md)
-    * [注册码](docs/注册码.md)
 
