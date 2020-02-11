@@ -8,6 +8,7 @@
         * [AutoFileName](docs/插件清单/AutoFileName.md)
         * [Babel](docs/插件清单/Babel.md)
         * [Boxy Theme](docs/插件清单/Boxy Theme.md)
+        * [C Improved](docs/插件清单/C Improved.md)
         * [ChineseLocalizations](docs/插件清单/ChineseLocalizations.md)
         * [Color Highlighter](docs/插件清单/Color Highlighter.md)
         * [ColorPicker](docs/插件清单/ColorPicker.md)
