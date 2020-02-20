@@ -4,7 +4,7 @@
 
 ```json
 {
-    "terminal": "当前环境中 命令提示符 的执行路径",
+    "terminal": "当前环境中 cmd.exe 的执行路径",
     "parameters": ["/START","%CWD%"]
 }
 ```

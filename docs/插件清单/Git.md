@@ -4,7 +4,7 @@
 
 ```json
 {
-    "git_command": "当前环境中 Git 的执行路径"
+    "git_command": "当前环境中 git.exe 的执行路径"
 }
 ```
 

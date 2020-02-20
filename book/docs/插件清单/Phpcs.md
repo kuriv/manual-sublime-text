@@ -11,8 +11,8 @@ composer global require squizlabs/php_codesniffer
 ```json
 {
     "phpcs_php_prefix_path": "当前环境中 PHP 的执行路径",
-    "phpcs_executable_path": "当前环境中 phpcs 的执行路径",
-    "phpcbf_executable_path": "当前环境中 phpcbf 的执行路径",
+    "phpcs_executable_path": "当前环境中 phpcs.bat 的执行路径",
+    "phpcbf_executable_path": "当前环境中 phpcbf.bat 的执行路径",
     "phpcbf_on_save": true
 }
 ```
